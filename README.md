@@ -22,4 +22,7 @@ pip Install tk
 sudo apt install python3-tk
 pip install requests
 pip install bs4
+
+cd Dollar_Calculator
+sudo python3 script.py
 ```
