@@ -14,3 +14,12 @@ The program was made with Python, using the PysimpleGUI library for interface an
 ![Screenshot from 2022-05-28 03-17-22](https://user-images.githubusercontent.com/64646796/170813265-8c14fab3-5605-44b3-bd7b-3498405aaf0d.png)
 05-28 03-17-14](https://user-images.githubusercontent.com/64646796/170813259-1b3a487d-cb9d-436d-ad3d-f819fff4ff76.png)
 ![Screenshot from 2022-05-28 03-17-22](https://user-images.githubusercontent.com/64646796/170813289-375b2ef7-0afc-4690-89d0-5dcd4e569685.png)
+
+- commands:
+```python
+pip install PySimpleGUI
+pip Install tk
+sudo apt install python3-tk
+pip install requests
+pip install bs4
+```
