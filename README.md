@@ -13,4 +13,4 @@ The program was made with Python, using the PysimpleGUI library for interface an
 ![Screenshot from 2022-
 ![Screenshot from 2022-05-28 03-17-22](https://user-images.githubusercontent.com/64646796/170813265-8c14fab3-5605-44b3-bd7b-3498405aaf0d.png)
 05-28 03-17-14](https://user-images.githubusercontent.com/64646796/170813259-1b3a487d-cb9d-436d-ad3d-f819fff4ff76.png)
-s://user-images.githubusercontent.com/64646796/170813254-1a0de09f-d012-4b5d-a827-37e038f9456d.png)
+![Screenshot from 2022-05-28 03-17-22](https://user-images.githubusercontent.com/64646796/170813289-375b2ef7-0afc-4690-89d0-5dcd4e569685.png)
